@@ -1,3 +1,3 @@
 variable "bucketname" {
-  default = "goura-static-site-bucket-20250625"
+  default = "goura-static-site-bucket-20250718"
 }
